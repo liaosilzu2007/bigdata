@@ -1,4 +1,4 @@
-package com.lzumetal.bigdata.hdfs;
+package com.lzumetal.bigdata.hdfs.file;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.*;
@@ -11,7 +11,7 @@ import java.net.URISyntaxException;
 import java.util.Date;
 
 /**
- * 类描述：
+ * 类描述：hadoop客户端测试类
  * 创建人：liaosi
  * 创建时间：2017年12月10日
  */
