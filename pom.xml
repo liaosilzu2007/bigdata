@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>hdfs</module>
+        <module>mapreduce-demo</module>
     </modules>
 
     <dependencies>
@@ -24,5 +25,12 @@
             <version>4.12</version>
         </dependency>
     </dependencies>
+
+    <build>
+        <plugins>
+            
+        </plugins>
+    </build>
+
 
 </project>
