@@ -11,6 +11,7 @@
     <modules>
         <module>hdfs</module>
         <module>mapreduce-demo</module>
+        <module>hive</module>
     </modules>
 
     <dependencies>

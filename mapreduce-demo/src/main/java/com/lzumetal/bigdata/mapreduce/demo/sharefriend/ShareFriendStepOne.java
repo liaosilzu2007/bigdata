@@ -33,6 +33,7 @@ public class ShareFriendStepOne {
                 context.write(new Text(friend), new Text(person));
             }
         }
+
     }
 
 
